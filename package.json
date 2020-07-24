@@ -1,0 +1,16 @@
+{
+  "name": "imgs_dataset_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "images-scraper": "^5.0.7",
+    "request": "^2.88.2"
+  }
+}
